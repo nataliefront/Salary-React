@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Salary-React/static/css/main.4d3d45a4.chunk.css",
+    "main.js": "/Salary-React/static/js/main.af7ce5e7.chunk.js",
+    "main.js.map": "/Salary-React/static/js/main.af7ce5e7.chunk.js.map",
+    "runtime-main.js": "/Salary-React/static/js/runtime-main.d5a7bc26.js",
+    "runtime-main.js.map": "/Salary-React/static/js/runtime-main.d5a7bc26.js.map",
+    "static/js/2.4242bc93.chunk.js": "/Salary-React/static/js/2.4242bc93.chunk.js",
+    "static/js/2.4242bc93.chunk.js.map": "/Salary-React/static/js/2.4242bc93.chunk.js.map",
+    "index.html": "/Salary-React/index.html",
+    "static/css/main.4d3d45a4.chunk.css.map": "/Salary-React/static/css/main.4d3d45a4.chunk.css.map",
+    "static/js/2.4242bc93.chunk.js.LICENSE.txt": "/Salary-React/static/js/2.4242bc93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a7bc26.js",
+    "static/js/2.4242bc93.chunk.js",
+    "static/css/main.4d3d45a4.chunk.css",
+    "static/js/main.af7ce5e7.chunk.js"
+  ]
+}
